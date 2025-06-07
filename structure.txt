@@ -1,0 +1,8 @@
+custom-llm/                  # Root project directory
+├── app.py                   # Main Streamlit app file - user interface and chat logic
+├── ollama_interface.py      # Interface to communicate with Ollama LLM via CLI subprocess
+├── rag_chain.py             # Core logic to process questions and get answers from Ollama
+├── config.py                # Configuration variables like file paths
+├── requirements.txt         # Python dependencies needed for the project
+└── data/                    # Folder to hold your company-specific data files
+    └── company_profile.txt  # Text file containing the company profile to provide context
