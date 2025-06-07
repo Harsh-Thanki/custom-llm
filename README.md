@@ -49,19 +49,19 @@ custom-llm/ <br>
     ```bash
     ollama run mistral
     ```
-   ![img.png](readme pics/img.png)
+   ![Image](https://github.com/user-attachments/assets/2c8b6c5f-4c8a-4f14-a417-c897a486ddf8)
 
 7. Start the Streamlit web app in a new terminal:
     ```bash
     streamlit run app.py
     ```
-   ![img2.png](readme pics/img2.png)
+   ![Image](https://github.com/user-attachments/assets/3bd46022-e822-43d0-8b8f-44a74acd0950)
 
 8. Open your browser and navigate to:
     ```
     http://localhost:8501
     ```
-   ![img3.png](readme pics/img3.png)
-   ![img4.png](readme pics/img4.png)
+   ![Image](https://github.com/user-attachments/assets/5995604e-0a6c-4544-bec3-57b0ade5e4e0)
+   ![Image](https://github.com/user-attachments/assets/40e5cf93-895f-41f4-b721-8e1607552c42)
    
 And Voila!!
